@@ -1,7 +1,7 @@
 import cv2
 
 # Read the image
-image = cv2.imread("D:/range-rover-velar-r-dynamic-luxury-suv-2020-5k-2560x1080-2817.jpeg")
+image = cv2.imread("C:/Users\sgman\PycharmProjects\PythonProject\Screenshot 2026-07-14 160634.png")
 
 # Flip the image
 # 1 = horizontal flip
